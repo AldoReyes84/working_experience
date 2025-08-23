@@ -8,7 +8,7 @@ body {
 
 header {
 	width: 300px;
-	position: fixed
+	position: static
 }
 
 /*	float: left; */
