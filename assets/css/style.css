@@ -8,10 +8,14 @@ body {
 
 header {
 	width: 300px;
+    float: left
 	position: static
 }
 
-/*	float: left; */
+.wrapper {
+	width: 860px;
+	margin: 0 auto
+}
 
 .view {
 	margin: 20px
@@ -71,10 +75,7 @@ a:hover small {
     color: #777
 }
 
-.wrapper {
-	width: 860px;
-	margin: 0 auto
-}
+
 
 
 section {
