@@ -10,7 +10,7 @@
 
 /Software & Technology Group / Developer Program /Developer Academy 
 
-# Instructor Developer Program Dashboard –
+# Instructor Developer Program Dashboard 
 
 ## Applicants Pipeline
 
