@@ -8,9 +8,10 @@ body {
 
 header {
 	width: 300px;
-/*	float: left; */
 	position: fixed
 }
+
+/*	float: left; */
 
 .view {
 	margin: 20px
