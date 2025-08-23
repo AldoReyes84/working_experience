@@ -11,6 +11,14 @@ body {
 	margin: 0 auto
 }
 
+.wrapper {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap
+}
+
+
+
 header {
 	width: 300px;
 	float: left;
