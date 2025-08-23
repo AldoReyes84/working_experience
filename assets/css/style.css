@@ -134,7 +134,7 @@ h1 {
   padding: 2em;
 }
 
-@media print, screen and (max-width: 900px) {
+@media print, screen and (max-width: 960px) {
     div.wrapper {
         width:auto;
         margin: 0
