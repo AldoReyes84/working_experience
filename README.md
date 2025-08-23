@@ -25,7 +25,7 @@ The data model was based on the following tables: FactLearningPlan, FactCertifie
 The main requirement was to build an applicant pipeline that visualized the status of learning plans and courses—both in overview and with drill-down capabilities. This enabled Program Managers and Instructor Sponsors to identify and support specific applicants in pursuing their certifications
 
 
-<img width="1280" height="780" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
+<img width="701" height="427" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
 
 ###### Figma Frame Recreation
 
