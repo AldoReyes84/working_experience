@@ -8,9 +8,11 @@ body {
 
 header {
 	width: 300px;
-    float: left
+
 	position: sticky
 }
+
+   /* float: left */
 
 .wrapper {
 	width: 860px;
