@@ -9,6 +9,7 @@ body {
 header {
 	width: 300px;
     float: left
+	position: sticky
 }
 
 .wrapper {
