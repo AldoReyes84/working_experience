@@ -8,7 +8,7 @@ body {
 
 header {
 	width: 300px;
-	float: left;
+/*	float: left; */
 	position: fixed
 }
 
@@ -88,10 +88,10 @@ h1 {
 
 /* Sidebar on the left */
 
-.main-layout {
+/* .main-layout {
   display: flex;
   min-height: 100vh;
-}
+}  */
 
 	.site-logo {
   width: 200px;         /* Adjust as needed */
