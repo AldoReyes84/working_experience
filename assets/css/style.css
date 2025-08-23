@@ -21,7 +21,7 @@ header {
 section {
 	width: 500px;
 	float: right;
-	position: fixed
+	position: fixed;
 	padding-bottom: 50px; 
 }
    /* float: left */
