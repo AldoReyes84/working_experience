@@ -124,6 +124,8 @@ h1 {
   padding: 2em;
 }
 
+
+/*
 @media print, screen and (min-width: 871px) {
     
 	}
@@ -153,7 +155,7 @@ h1 {
 
 }
 
-/*
+
 @media print, screen and (min-width: 620px) {
     body {
         word-wrap:break-word
