@@ -124,7 +124,7 @@ h1 {
   padding: 2em;
 }
 
-@media print, screen and (min-width: 760px) {
+@media print, screen and (max-width: 871px) {
     
 	}
     header,section,footer {
