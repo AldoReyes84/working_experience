@@ -8,14 +8,6 @@ body {
   	flex-wrap: wrap;
 }
 
-
-
-.wrapper {
-	
-	margin: 0 auto
-}
-
-
 header {
 	width: 300px;
 	height: 800px;
@@ -133,17 +125,12 @@ h1 {
 }
 
 @media print, screen and (max-width: 760px) {
-    div.wrapper {
-        width:auto;
-        margin: 0
-    }
-
-
+    
 	}
     header,section,footer {
         float: none;
         position: static;
-        width: auto  
+       /* width: auto  */
     }
 
 	}
