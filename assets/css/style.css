@@ -127,16 +127,14 @@ h1 {
 
 
 @media print, screen and (max-width: 871px) {
-    
-	}
-    header,section,footer {
-        float: none;
+    header,section,footer{
+		float: none;
         position: static;
 		background: green;
        /* width: auto  */
     }
 
-	}
+	
 	
     header {
         padding-right: 320px
