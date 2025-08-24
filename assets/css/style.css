@@ -132,7 +132,7 @@ h1 {
   padding: 2em;
 }
 
-@media print, screen and (max-width: 860px) {
+@media print, screen and (max-width: 760px) {
     div.wrapper {
         width:auto;
         margin: 0
@@ -165,7 +165,7 @@ h1 {
 
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 620px) {
     body {
         word-wrap:break-word
     }
