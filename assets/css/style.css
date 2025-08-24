@@ -18,6 +18,7 @@ body {
 
 header {
 	width: 300px;
+	height: 500px;
 	position: sticky;
 	top: 0;
 }
