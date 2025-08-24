@@ -22,7 +22,8 @@ body {
 header {
 	width: 300px;
 	float: left;
-	position: sticky
+	position: sticky;
+	top: 0;
 }
 
 section {
