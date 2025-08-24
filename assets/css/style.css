@@ -124,12 +124,13 @@ h1 {
   padding: 2em;
 }
 
-@media print, screen and (max-width: 760px) {
+@media print, screen and (min-width: 760px) {
     
 	}
     header,section,footer {
         float: none;
         position: static;
+		background: green;
        /* width: auto  */
     }
 
