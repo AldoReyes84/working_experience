@@ -171,6 +171,7 @@ h1 {
     }
 }
 
+/*
 @media print, screen and (min-width: 480px) {
     body {
         padding:15px
@@ -192,3 +193,4 @@ h1 {
         color: #444
     }
 }
+*/
