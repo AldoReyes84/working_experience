@@ -130,7 +130,6 @@ h1 {
     header,section,footer{
 		float: none;
         position: static;
-		background: green;
        /* width: auto  */
     }
 
