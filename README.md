@@ -1,9 +1,6 @@
 
  # Working Experience
 
-<b/>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Intel Project Analyst
 
 ##### Contingent Worker employed by [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/) sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)
