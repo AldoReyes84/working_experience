@@ -5,11 +5,19 @@
 
 ##### Contingent Worker employed by [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/) sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)
 
-###### 11/2021 to 03/2025
+#### 11/2021 to 03/2025
 
 ##### Intel Internal Sponsor, Kate Roberson, Trainer Manager (Developer Focus) 
 
-/Software & Technology Group / Developer Program /Developer Academy 
+Support the Software Advance Technology Group (SATG)/Software Products & Ecosystems (SP&E)/Developer Ecosystem Program (DEP)/Developer Academia, teams, and programs designing Power BI Dashboards responding to specific business needs. Operational and Strategic Reports, OKR & KPI Dashboards, Program Overview Summaries, Stages of Learning Program Consumption Pipelines & Status, Developer Activity, Funnel reports, Statistics and Demographics, NPS & Satisfacción Survey, Data Quality.
+
+Data Structure Analysis from Sources and connections such as Azure Snowflakes, Cloudera Impala, Salesforce Objects, Smartsheet, etc.
+
+Data transformation & Data Modeling in Power Query Editor (M language) according to the needs of each business case. Preference for Star Schema, but not limited to. 
+
+Reporting and providing Insight using Data Analysis, DAX formulas, and quick interpretative Visualizations to offer easy-to-read and action-trigger charts in Power BI Dashboards. 
+
+Designing a comfortable look and feel experience using Figma for Dashboard & Visualization Frames.
 
 ### Certified Instructor Program Dashboard 
 
