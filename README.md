@@ -1,110 +1,131 @@
 
  # Working Experience
 
-## Intel Project Analyst
+## 🧠 Intel Project Analyst  
+**Contingent Worker at [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/), sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)**  
+**Intel Internal Sponsor:** Kate Roberson – Trainer Manager (Developer Focus)  
+**Duration:** Nov 2021 – Mar 2025  ·  3 years 5 months  
+**Location:** Portland, Oregon / Remote  
 
-##### Contingent Worker employed by [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/) sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)
+### 📊 Dashboard Design & Business Intelligence
+- Supported teams across SATG, SP&E, DEP, and Developer Academia by designing Power BI dashboards tailored to specific business needs.
+- Delivered operational and strategic reports, including:
+  - OKR & KPI Dashboards  
+  - Program Overview Summaries  
+  - Learning Program Consumption Pipelines  
+  - Developer Activity & Funnel Reports  
+  - Statistics, Demographics, NPS & Satisfaction Surveys  
+  - Data Quality Metrics
 
-#### 11/2021 to 03/2025
+### 🔗 Data Integration & Modeling
+- Analyzed data structures from sources such as:
+  - Azure Snowflake  
+  - Cloudera Impala  
+  - Salesforce Objects  
+  - Smartsheet  
+- Transformed and modeled data using Power Query Editor (M language), with a preference for Star Schema architecture.
 
-#### Portland, Oregon/ Remote
+### 📈 Insight Generation & Visualization
+- Built actionable visualizations using DAX formulas and interpretative charts in Power BI.
+- Focused on clarity and usability to support decision-making across technical and business teams.
+- Designed dashboard frames and UI elements in **Figma** for a polished user experience.
 
-##### Intel Internal Sponsor, Kate Roberson, Trainer Manager (Developer Focus) 
+---
 
-Support the Software Advance Technology Group (SATG)/Software Products & Ecosystems (SP&E)/Developer Ecosystem Program (DEP)/Developer Academia, teams, and programs designing Power BI Dashboards responding to specific business needs. Operational and Strategic Reports, OKR & KPI Dashboards, Program Overview Summaries, Stages of Learning Program Consumption Pipelines & Status, Developer Activity, Funnel reports, Statistics and Demographics, NPS & Satisfacción Survey, Data Quality.
+## 🎓 Certified Instructor Program Dashboard
 
-Data Structure Analysis from Sources and connections such as Azure Snowflakes, Cloudera Impala, Salesforce Objects, Smartsheet, etc.
+As Program Analyst, I provided accurate and timely insights into the Instructor Developer Program.  
+Initial data source: **Salesforce** → migrated to **Power BI** for enhanced flexibility and dynamic reporting.
 
-Data transformation & Data Modeling in Power Query Editor (M language) according to the needs of each business case. Preference for Star Schema, but not limited to. 
+### 🧩 Data Model Structure
+- Connected Power BI to Salesforce Objects via configured drivers.
+- Built a robust data model using:
+  - FactLearningPlan  
+  - FactCertifiedStatus  
+  - FactInstructors  
+  - FactInstructorActivity  
+  - DimAccounts  
+  - DimGeo  
+  - DimDate  
+  - DimCourses  
+  - DimLearningPlans  
+  - DimInstructorSponsors
 
-Reporting and providing Insight using Data Analysis, DAX formulas, and quick interpretative Visualizations to offer easy-to-read and action-trigger charts in Power BI Dashboards. 
+<details>
+  <summary><strong>📌 Applicants Pipeline</strong></summary>
+  <br>
 
-Designing a comfortable look and feel experience using Figma for Dashboard & Visualization Frames.
+  - Visualized applicant progress across learning plans and courses.
+  - Enabled drill-down functionality for Program Managers and Sponsors.
+  - Interactive filters: geography, sponsor, company, course status.
+  - Highlighted “Pending Approval” status for managerial action.
+  - Exportable Applicant Status table for Excel analysis.
+  - Implemented custom DAX measure: **Days Inactive** (based on Salesforce activity field).
 
-### Certified Instructor Program Dashboard 
-
- As a Program Analyst, my role was to provide accurate and timely information regarding the status of the Instructor Developer Program.
-
-Initially, the program operated on **Salesforce**, and my first assignment was to build a dashboard—either using **Salesforce Dashboards** or Power BI.
-
-I chose **Power BI** due to its superior versatility, which allowed for more dynamic reporting capabilities than those offered by Salesforce Reports and Dashboards.
-
-To connect Power BI to the data source, I configured the necessary drivers to access Salesforce Objects (tables).
-
-The data model was based on the following tables: FactLearningPlan, FactCertifiedStatus, FactInstructors, FactInstructorActivity, DimAccounts, DimGeo, DimDate, DimCourses, DimLearningPlans, and DimInstructorSponsors.
-
-<details> 
-  <summary> <strong>Applicants Pipeline </strong></summary>
-<br>
-
-The first requirement was to build an applicant pipeline that visualized the status of learning plans and courses—both in overview and with drill-down capabilities. This enabled Program Managers and Instructor Sponsors to identify and support specific applicants in pursuing their certifications
-
-
-<img width="501" height="305" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
-
-###### Figma Frame Recreation
-
-This dashboard displays the total number of current applicants in the pipeline.
-
-It includes drill-down functionality for each Learning Program, allowing users to filter and view specific program overviews.
-
-Visual elements such as geography, sponsor, and company act as interactive filters. This feature was particularly useful for sponsors to review applicants they supported, or for stakeholders working with a specific company.
-
-There were three prerequisites required to enroll in the program, followed by an Introduction Plan that was mandatory for all Learning Plans.
-
-The Course Status visualization also functions as a filter, enabling users to segment applicants by course status. These filters can be combined using the Ctrl key for multi-selection.
-
-The color scheme was designed to reflect the progression of statuses—from inactive to institutional grading—with a special highlight on the “Pending Approval” status, as this required action from the Program Manager.
-
-The Applicant Status table was tailored to each Learning Plan, providing detailed insights into individual applicant progress. This table could be exported to Excel for further analysis.
-
-A custom DAX measure called “Days Inactive” was implemented to calculate the number of days since the applicant’s last recorded activity, using a field provided by Salesforce
-
+  <img width="501" height="305" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
 </details>
 
-<details> 
-  <summary><strong>Program Overview</strong></summary>
-
+<details>
+  <summary><strong>📋 Program Overview</strong></summary>
+  <br>
+  Summary of program stages, enrollment metrics, and certification progress.
 </details>
 
-<details> 
-  <summary><strong>Instructor Activity</strong></summary>
-
+<details>
+  <summary><strong>🎓 Instructor Activity</strong></summary>
+  <br>
+  Tracking of instructor engagement, course delivery, and certification support.
 </details>
 
-<details> 
-  <summary><strong>Certified Instructors</strong></summary>
-
+<details>
+  <summary><strong>✅ Certified Instructors</strong></summary>
+  <br>
+  Overview of certified instructors by region, sponsor, and program.
 </details>
 
-<details> 
-  <summary><strong>User Profile</strong></summary>
-
+<details>
+  <summary><strong>👤 User Profile</strong></summary>
+  <br>
+  Individual applicant profiles with progress, prerequisites, and activity logs.
 </details>
 
-<details> 
-  <summary><strong>Data Quality</strong></summary>
-
+<details>
+  <summary><strong>📊 Data Quality</strong></summary>
+  <br>
+  Metrics on data completeness, accuracy, and update frequency.
 </details>
 
-<details> 
-  <summary><strong>Program Health</strong></summary>
-
+<details>
+  <summary><strong>🩺 Program Health</strong></summary>
+  <br>
+  Aggregated indicators of program performance, satisfaction, and growth.
 </details>
 
-### Workshop Quality Survey Dashboard
+----
 
-### Developers Trained
+## 🧪 Workshop Quality Survey Dashboard  
+Insights into workshop effectiveness, participant feedback, and satisfaction scores.
 
-### Docebo LMS Dashboard
+## 👨‍💻 Developers Trained  
+Tracking of developer engagement, training completions, and certification outcomes.
 
---------------------------------------------------------------------------------------------------------------
+## 🎓 Docebo LMS Dashboard  
+Monitoring of learning paths, course consumption, and user progression within Docebo LMS.
 
-## Conagra Sales Analyst
+--------------------------------------------------------------------------------------------------
+
+## Conagra Brands
+
+**Full-time Employment**  
+**Manager:** Arely Perez, Team Leader Sales Capabilities & Analytics  
+**Duration:** Jan 2014 - Jan 2020 · 6 years 1 month  
+**Location:** Mexico City
 
 
+## 🧠 Conagra Sales Analyst
+**Mar 2017 – Jan 2020 · 2 year 11 month**  
 
-## 📊 Sales Intelligence Overview
+### 📊 Sales Intelligence Overview
 
 ### 🔍 Data Consolidation & Reporting
 - **Sales Reporting & Data Mining**  
@@ -130,9 +151,9 @@ A custom DAX measure called “Days Inactive” was implemented to calculate the
 - **ETL Automation with Power Query Engine**  
   Automation of ETL processes using Power Query Engine.
 
-## Operations & Administration Lead – Distribution Centers
-
 ## 🏢 Operational Leadership & Process Management
+**Feb 2016 – Mar 2017 · 1 year 2 month**  
+
 
 ### 👥 Team Leadership & Coordination
 - **Administrative Team Oversight**  
@@ -158,7 +179,7 @@ A custom DAX measure called “Days Inactive” was implemented to calculate the
 
   ## 📈 Management Control Analyst  
 **Feb 2015 – Feb 2016 · 1 year 1 month**  
-**Location:** Mexico
+
 
 ### 🧮 Budget Management & Process Optimization
 - **Trade Marketing Budget Oversight**  
