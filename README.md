@@ -39,7 +39,10 @@ Initial data source: **Salesforce** → migrated to **Power BI** for enhanced fl
 
 ### 🧩 Data Model Structure
 - Connected Power BI to Salesforce Objects via configured drivers.
-- Built a robust data model using:
+
+ <details>
+ <summary><strong>Built a robust data model</strong></summary>
+  <br>
   - FactLearningPlan  
   - FactCertifiedStatus  
   - FactInstructors  
@@ -50,18 +53,18 @@ Initial data source: **Salesforce** → migrated to **Power BI** for enhanced fl
   - DimCourses  
   - DimLearningPlans  
   - DimInstructorSponsors
+</details>
 
 <details>
   <summary><strong>📌 Applicants Pipeline</strong></summary>
   <br>
-
   - Visualized applicant progress across learning plans and courses.
   - Enabled drill-down functionality for Program Managers and Sponsors.
   - Interactive filters: geography, sponsor, company, course status.
   - Highlighted “Pending Approval” status for managerial action.
   - Exportable Applicant Status table for Excel analysis.
   - Implemented custom DAX measure: **Days Inactive** (based on Salesforce activity field).
-
+ <br>
   <img width="501" height="305" alt="Applicants Pipeline" src="https://github.com/user-attachments/assets/d291bd6e-93a2-4fcd-85bb-c5f769672a80" />
 </details>
 
