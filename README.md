@@ -7,6 +7,8 @@
 
 #### 11/2021 to 03/2025
 
+#### Portland, Oregon/ Remote
+
 ##### Intel Internal Sponsor, Kate Roberson, Trainer Manager (Developer Focus) 
 
 Support the Software Advance Technology Group (SATG)/Software Products & Ecosystems (SP&E)/Developer Ecosystem Program (DEP)/Developer Academia, teams, and programs designing Power BI Dashboards responding to specific business needs. Operational and Strategic Reports, OKR & KPI Dashboards, Program Overview Summaries, Stages of Learning Program Consumption Pipelines & Status, Developer Activity, Funnel reports, Statistics and Demographics, NPS & Satisfacción Survey, Data Quality.
@@ -100,4 +102,73 @@ A custom DAX measure called “Days Inactive” was implemented to calculate the
 
 ## Conagra Sales Analyst
 
+
+
+## 📊 Sales Intelligence Overview
+
+### 🔍 Data Consolidation & Reporting
+- **Sales Reporting & Data Mining**  
+  Generation of sales reports and data mining for strategic insights.
+- **Sell-Out Visibility Across Channels**  
+  Consolidation of information provided by clients across Supermarket chains, Price Clubs, and Wholesalers to deliver company-wide Sell-Out visibility.
+
+### 🧭 Strategic Analysis
+- **Scope & Cataloging Opportunity Matrix**  
+  Mapping of product reach and cataloging opportunities.
+- **SI vs SO Analysis**  
+  Comparative analysis between Sell-In and Sell-Out.
+- **Sales Trends & Perfect Store Tracking**  
+  Monitoring of sales trends and Perfect Store Model performance.
+- **Launches, Seasons & Promotions**  
+  Targeted analysis of product launches, seasonal campaigns, and promotional activities.
+
+### 🛠️ Data Modeling & Automation
+- **Data Model Structuring**  
+  Design and structuring of data models for analysis and visualization.
+- **Report Design**  
+  Development of business-oriented report layouts.
+- **ETL Automation with Power Query Engine**  
+  Automation of ETL processes using Power Query Engine.
+
+## Operations & Administration Lead – Distribution Centers
+
+## 🏢 Operational Leadership & Process Management
+
+### 👥 Team Leadership & Coordination
+- **Administrative Team Oversight**  
+  Led the administrative team—including direct supervision of Administrators and Data Entry Operators, and indirect coordination with Liquidators and Warehouse Staff—to ensure daily operations across 7 national distribution centers (CEDIS).
+
+### 🚚 Operational Execution
+- **Pre-Sales Data Capture**  
+  Oversaw the accurate and timely capture of pre-sales information.
+- **Cargo Flight Scheduling**  
+  Managed logistics related to cargo flights and delivery planning.
+- **Inventory Reconciliation**  
+  Ensured consistency and accuracy in inventory records across all centers.
+- **Liquidation Audits & Promotions**  
+  Conducted audits of liquidation processes and promotional activities.
+- **Billing & Invoicing**  
+  Supervised the generation and validation of invoices.
+
+### 🔧 Process Optimization & Reporting
+- **Process Improvement Initiatives**  
+  Identified and implemented enhancements to operational workflows.
+- **Channel Reporting**  
+  Delivered strategic reports to Channel Management and Executive Leadership.
+
+  ## 📈 Management Control Analyst  
+**Feb 2015 – Feb 2016 · 1 year 1 month**  
+**Location:** Mexico
+
+### 🧮 Budget Management & Process Optimization
+- **Trade Marketing Budget Oversight**  
+  Improved the budget management process for the Commercial Trade Marketing area by delivering key performance indicators (KPIs) on process timing, balances, and deviations.
+
+- **Relational Database Implementation**  
+  Designed and implemented a backend system using a relational database in **Microsoft Access** to support budget tracking and reporting.
+
+- **KPI Delivery & Operational Visibility**  
+  Enabled visibility into financial and operational metrics through automated reporting and structured data flows.
+
+---
 
