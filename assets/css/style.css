@@ -34,19 +34,14 @@ footer
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
-.aside {
-	width: 369px;
-	margin: 24px 24px 24px 24px;
-	float: left;
-	position: sticky;
-	style: top;
-}
+
 
 .layout-body-aside {
 	width: 369px;
+	padding: 24px 24px 24px 24px
 	float: left;
 	position: sticky;
-	style: top;
+	top: 0;
 }
 
 
