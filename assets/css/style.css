@@ -34,6 +34,14 @@ footer
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
+.aside {
+	width: 369px;
+	float: right;
+	position: sticky;
+	style: top;
+}
+
+
 
 .view {
 	margin: 20px
