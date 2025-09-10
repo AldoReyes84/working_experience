@@ -36,6 +36,7 @@ footer
 
 .aside {
 	width: 369px;
+	margin: 24px 24px 24px 24px;
 	float: left;
 	position: sticky;
 	style: top;
