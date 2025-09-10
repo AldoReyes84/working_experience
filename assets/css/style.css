@@ -41,6 +41,12 @@ footer
 	style: top;
 }
 
+.layout-body-aside {
+	width: 369px;
+	float: left;
+	position: sticky;
+	style: top;
+}
 
 
 .view {
