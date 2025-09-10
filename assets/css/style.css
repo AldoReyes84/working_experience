@@ -40,10 +40,14 @@ footer
 	width: 369px;
 	padding: 24px 24px 24px 24px;
 	float: left;
+	position: relative;
+	top: 
+}
+
+.working experience index {
 	position: sticky;
 	top: 0;
 }
-
 
 .view {
 	margin: 20px
