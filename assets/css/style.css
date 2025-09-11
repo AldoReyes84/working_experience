@@ -76,6 +76,13 @@ aside a:hover {
 	top: 0;
 }
 
+aside.layout-body-aside {
+  position: sticky;
+  top: 1rem; /* distancia desde el top del viewport */
+  height: fit-content;
+}
+
+
 .view {
 	margin: 20px
 }
