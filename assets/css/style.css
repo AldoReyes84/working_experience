@@ -11,6 +11,8 @@ body {
 .wrapper{
 	width: 860px;
 	margin: 0;
+	flex-direction: row;
+	align-items: flex-start;
 }
 
 header {
