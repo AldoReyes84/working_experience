@@ -17,13 +17,14 @@ body {
 
 header {
 	width: 300px;
-	position: fixed;
+	position: relative;
 }
 
 section {
 	width: 690px;
 	float: right;
-	padding-bottom: 50px;  
+	padding-bottom: 50px;
+	position: relative;
 }
    /* float: left */
 
