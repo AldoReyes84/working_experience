@@ -1,12 +1,13 @@
  # Working Experience
 
-## 🧠 Intel Project Analyst  
+## 🧠 Intel Project Analyst {#intel-project-analyst} 
 **Contingent Worker at [Arcthec L.L.C](https://www.linkedin.com/company/artechllc/), sub-employed by [Praxis](https://www.linkedin.com/company/praxis_2/)**  
 **Intel Internal Sponsor:** Kate Roberson – Trainer Manager (Developer Focus)  
 **Duration:** Nov 2021 – Mar 2025  ·  3 years 5 months  
 **Location:** Portland, Oregon / Remote  
 
-### 📊 Dashboard Design & Business Intelligence
+### 📊 Dashboard Design & Business Intelligence {#dashboard-design-business-intelligence}
+
 - Supported teams across SATG, SP&E, DEP, and Developer Academia by designing Power BI dashboards tailored to specific business needs.
 - Delivered operational and strategic reports, including:
   - OKR & KPI Dashboards  
@@ -16,7 +17,8 @@
   - Statistics, Demographics, NPS & Satisfaction Surveys  
   - Data Quality Metrics
 
-### 🔗 Data Integration & Modeling
+### 🔗 Data Integration & Modeling {#data-integration-modeling}
+
 - Analyzed data structures from sources such as:
   - Azure Snowflake  
   - Cloudera Impala  
@@ -24,19 +26,21 @@
   - Smartsheet  
 - Transformed and modeled data using Power Query Editor (M language), with a preference for Star Schema architecture.
 
-### 📈 Insight Generation & Visualization
+### 📈 Insight Generation & Visualization {#insight-generation-visualization}
+
 - Built actionable visualizations using DAX formulas and interpretative charts in Power BI.
 - Focused on clarity and usability to support decision-making across technical and business teams.
 - Designed dashboard frames and UI elements in **Figma** for a polished user experience.
 
 ---
 
-## 🎓 Certified Instructor Program Dashboard
+## 🎓 Certified Instructor Program Dashboard {#certified-instructor-program-dashboard}
 
 As Program Analyst, I provided accurate and timely insights into the Instructor Developer Program.  
 Initial data source: **Salesforce** → migrated to **Power BI** for enhanced flexibility and dynamic reporting.
 
-### 🧩 Data Model Structure
+### 🧩 Data Model Structure {#data-model-structure}
+
 - Connected Power BI to Salesforce Objects via configured drivers.
 
  <details>
@@ -105,13 +109,15 @@ Initial data source: **Salesforce** → migrated to **Power BI** for enhanced fl
 
 ----
 
-## 🧪 Workshop Quality Survey Dashboard  
+## 🧪 Workshop Quality Survey Dashboard  {#workshop-quality-survey-dashboard}
+
 Insights into workshop effectiveness, participant feedback, and satisfaction scores.
 
-## 👨‍💻 Developers Trained  
+## 👨‍💻 Developers Trained  {#developers-trained}
+
 Tracking of developer engagement, training completions, and certification outcomes.
 
-## 🎓 Docebo LMS Dashboard  
+## 🎓 Docebo LMS Dashboard  {#docebo-lms-dashboard}
 Monitoring of learning paths, course consumption, and user progression within Docebo LMS.
 
 --------------------------------------------------------------------------------------------------
@@ -124,18 +130,18 @@ Monitoring of learning paths, course consumption, and user progression within Do
 **Location:** Mexico City
 
 
-## 🧠 Conagra Sales Analyst
+## 🧠 Conagra Sales Analyst {#conagra-sales-analyst}
 **Mar 2017 – Jan 2020 · 2 year 11 month**  
 
-### 📊 Sales Intelligence Overview
+### 📊 Sales Intelligence Overview {#sales-intelligence-overview}
 
-### 🔍 Data Consolidation & Reporting
+### 🔍 Data Consolidation & Reporting {#data-consolidation-reporting}
 - **Sales Reporting & Data Mining**  
   Generation of sales reports and data mining for strategic insights.
 - **Sell-Out Visibility Across Channels**  
   Consolidation of information provided by clients across Supermarket chains, Price Clubs, and Wholesalers to deliver company-wide Sell-Out visibility.
 
-### 🧭 Strategic Analysis
+### 🧭 Strategic Analysis {#strategic-analysis}
 - **Scope & Cataloging Opportunity Matrix**  
   Mapping of product reach and cataloging opportunities.
 - **SI vs SO Analysis**  
@@ -145,7 +151,7 @@ Monitoring of learning paths, course consumption, and user progression within Do
 - **Launches, Seasons & Promotions**  
   Targeted analysis of product launches, seasonal campaigns, and promotional activities.
 
-### 🛠️ Data Modeling & Automation
+### 🛠️ Data Modeling & Automation  {#data-modeling-automation}
 - **Data Model Structuring**  
   Design and structuring of data models for analysis and visualization.
 - **Report Design**  
@@ -153,15 +159,15 @@ Monitoring of learning paths, course consumption, and user progression within Do
 - **ETL Automation with Power Query Engine**  
   Automation of ETL processes using Power Query Engine.
 
-## 🏢 Operational Leadership & Process Management
+## 🏢 Operational Leadership & Process Management {#operational-leadership-process-management}
 **Feb 2016 – Mar 2017 · 1 year 2 month**  
 
 
-### 👥 Team Leadership & Coordination
+### 👥 Team Leadership & Coordination {#team-leadership-coordination}
 - **Administrative Team Oversight**  
   Led the administrative team—including direct supervision of Administrators and Data Entry Operators, and indirect coordination with Liquidators and Warehouse Staff—to ensure daily operations across 7 national distribution centers (CEDIS).
 
-### 🚚 Operational Execution
+### 🚚 Operational Execution {#operational-execution}
 - **Pre-Sales Data Capture**  
   Oversaw the accurate and timely capture of pre-sales information.
 - **Cargo Flight Scheduling**  
@@ -173,17 +179,17 @@ Monitoring of learning paths, course consumption, and user progression within Do
 - **Billing & Invoicing**  
   Supervised the generation and validation of invoices.
 
-### 🔧 Process Optimization & Reporting
+### 🔧 Process Optimization & Reporting {#process-optimization-reporting}
 - **Process Improvement Initiatives**  
   Identified and implemented enhancements to operational workflows.
 - **Channel Reporting**  
   Delivered strategic reports to Channel Management and Executive Leadership.
 
-  ## 📈 Management Control Analyst  
+  ## 📈 Management Control Analyst  {#management-control-analyst}
 **Feb 2015 – Feb 2016 · 1 year 1 month**  
 
 
-### 🧮 Budget Management & Process Optimization
+### 🧮 Budget Management & Process Optimization {#budget-management-process-optimization}
 - **Trade Marketing Budget Oversight**  
   Improved the budget management process for the Commercial Trade Marketing area by delivering key performance indicators (KPIs) on process timing, balances, and deviations.
 
