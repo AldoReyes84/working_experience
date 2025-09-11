@@ -34,6 +34,36 @@ footer
     -webkit-font-smoothing: subpixel-antialiased;
 }
 
+aside {
+  padding: 1em;
+  background-color: #f9f9f9;
+  border-left: 3px solid #ccc;
+  font-size: 0.95rem;
+}
+
+aside h4 {
+  margin-top: 1em;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+aside ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+aside li {
+  margin-bottom: 0.5em;
+}
+
+aside a {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+aside a:hover {
+  text-decoration: underline;
+}
 
 
 .layout-body-aside {
@@ -176,9 +206,10 @@ h1 {
     header a small {
         display: inline
     }
-	.layout-body-aside{
+	aside {
 		display: none;
 	}
+	
 	ul{
 		padding: 0;
 	}
