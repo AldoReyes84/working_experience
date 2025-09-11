@@ -175,6 +175,9 @@ h1 {
     header a small {
         display: inline
     }
+	.layout-body-aside{
+		display: none;
+	}
 
 }
 
@@ -195,6 +198,9 @@ h1 {
     pre,code {
         word-wrap: normal
     }
+	.layout-body-aside{
+		display: none;
+	}
 }
 
 
@@ -210,6 +216,9 @@ h1 {
     .downloads li,.downloads li+li+li {
         width: 33%
     }
+	.layout-body-aside{
+		display: none;
+	}
 }
 
 @media print {
