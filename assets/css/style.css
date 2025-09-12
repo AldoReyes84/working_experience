@@ -12,6 +12,7 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 	flex-direction: row;
+	justify-content: start;
 }
 
 header {
@@ -23,6 +24,7 @@ header {
 section {
 	width: 690px;
 	margin: 0;
+	float: 
 }
    
 
