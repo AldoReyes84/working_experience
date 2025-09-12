@@ -24,6 +24,8 @@ header {
 
 section {
 	width: 690px;
+	position: fixed;
+	order: 2
 }
    
 
