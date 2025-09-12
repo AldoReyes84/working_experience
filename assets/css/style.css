@@ -25,7 +25,8 @@ header {
 section {
 	width: 690px;
 	margin: 0;
-	order: 3;
+	position: relative;
+	left: 0
 }
    
 
