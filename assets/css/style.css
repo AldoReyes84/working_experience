@@ -9,7 +9,7 @@ body {
 }
 
 .wrapper{
-	width: 990px;
+	width: 1000px;
 	margin: 0 auto;
 	flex-direction: row;
 	align-items: flex-start;
@@ -17,16 +17,15 @@ body {
 
 header {
 	width: 300px;
-	position: relative;
+	position: sticky;
+	top: 0;
 }
 
 section {
 	width: 690px;
-	float: right;
-	padding-bottom: 50px;
-	position: relative;
+	margin: 0;
 }
-   /* float: left */
+   
 
 footer
  {
