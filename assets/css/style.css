@@ -10,7 +10,7 @@ body {
 
 .wrapper{
 	width: 860px;
-	margin: 0;
+	margin: 0 auto;
 	flex-direction: row;
 	align-items: flex-start;
 }
